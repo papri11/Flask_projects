@@ -24,3 +24,4 @@ statsmodels==0.12.2
 threadpoolctl==2.2.0
 Werkzeug==2.0.1
 wincertstore==0.2
+gunicorn
